@@ -1,0 +1,13 @@
+body {
+    background-color: #808000;
+    font-family:arial; font-size:24pt
+    margin-left:1.3in; border-radius: 10;
+}
+p{font-weight:bold ;font style:italic;
+text-align :center
+}
+main{font-size:24pt; font-family:arial;
+font-weight:bold; text-align:center;}
+li{text-align:center; font-weight: bold ;}
+
+

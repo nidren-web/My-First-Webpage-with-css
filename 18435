@@ -1,0 +1,16 @@
+<!DOCTYPE>
+<html>
+    <head> <title> My first webpage</title> <link rel="stylesheet" href="mystylesheet.css"</head>
+    <body>
+        <main> Here are some of the images showing our products
+          </main>
+        <p> 1. The technical solution to replace no teeth or damaged teeth</p> <li><img src="denture.jpg" alt="a denture" width="200" length="100"></li>
+       <p> 2.A machine used in kidney dialysis as a way to treat kidney illnesses </p> <li><img src="dialysis machine.jpg" alt="The dialysis machine" width="200" length="200"></li>
+          <p>3. An artificial  pump of the body  ,  which is a replacement of the heart<li><img src="artificial heart.jpg" alt="artificial heart" width="200" length="100"></li> </p>
+           <p>
+     <li>   <a href="index.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="products.html">Products</a></li>
+        </p>
+        </body>
+        </html>

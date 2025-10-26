@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+    <head> <title> My first webpage</title>
+    <style type="text/css"> body{background-color: tomato} 
+    
+    
+    </style> </head>
+    <body>
+        <p style=" font-style:italic; line-height:1.5"> To access our products or  to consult us to get  technical solution propositions you can contact us through the following contacts: </p>
+     <p style="font-family:arial; font-weight:bold ; text-align:center;">   Email: eternaltechnologies@outlook.com
+       <br> Facebook: Eternal Technologies
+       <br> Phone number: +263781194261</p>
+        <p>
+    <li> <a href="index.html">About</a></li>
+  <li> <a href="contact.html">Contact</a></li>
+   <li> <a href="products.html">Products</a></li>
+        </p>
+        </body>
+        </html>
